@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Admin\Documents\Zalo Received Files\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+C:\Users\truon\OneDrive\Tài liệu\WindowsFormsApp1 (1)\WindowsFormsApp1\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
