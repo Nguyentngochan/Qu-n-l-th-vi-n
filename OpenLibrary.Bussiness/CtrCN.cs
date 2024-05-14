@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using OpenLibrary.DataAccess;
+
+namespace OpenLibrary.Bussiness
+{
+    public class CtrCN
+    {
+        QLCN cn = new QLCN();
+        public bool ThemtenchuyenNganh(String s)
+        {
+
+            try
+            {
+                cn.Themmoichuyennganh(s);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+        public DataTable laydschuyennganh()
+        {
+            return cn.Laychuyennganh();
+        }
+        public bool SuachuyenNganh(String tencn, String macn)
+        {
+
+            try
+            {
+                cn.Suachuyennganh(tencn, macn);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+        public bool XoaChuyenNganh(String s)
+        {
+
+            try
+            {
+                bool t = cn.XoaChuyenNganh(s);
+                return t;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+    }
+}
